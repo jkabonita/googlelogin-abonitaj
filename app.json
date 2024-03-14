@@ -21,10 +21,17 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.janceeabonita012.googleloginabonitaj"
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "b67ffe71-62ca-494f-a439-223bcb0b8e7b"
+      }
+    },
+    "owner": "janceeabonita012"
   }
 }
